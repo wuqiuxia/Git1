@@ -3,10 +3,10 @@ Github命令
 2、Git commit -m: 通过commit命令，将新添加的文件提交到本地git仓库中;
 3、Git remote add origin(地址): 给上一步新建的本地git管理目录添加远程仓库；
 4、Git push -u origin master: 提交本地git工程到远程仓库;
-5、Git push: xxx 为git分支名称，不添加后面参数默认推送到与当前本地分支相关联的分支；
+5、Git push: xxx 为git分支名称，不re'm添加后面参数默认推送到与当前本地分支相关联的分支；
 6、Git clone(仓库地址）：将远程仓库克隆到本地；
 7、Git pull：将远程仓库的更新拉取到本地；
-8、Git branch -a:查看远程和本地所有的分支；
+8、Git branch -a:查看远程和本地所有的分支；-
 9、Git checkout（分支名称）：新建并切换分支；
 10、Git branch-D(分支名）：删除本地分支；
 11、Git push(主机名）--delete(分支名）：删除远程分支；
