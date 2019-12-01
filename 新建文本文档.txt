@@ -11,4 +11,5 @@ Github命令
 10、Git branch-D(分支名）：删除本地分支；
 11、Git push(主机名）--delete(分支名）：删除远程分支；
 12、Git merge(目标分支名称）：合并分支；
+13，
 
